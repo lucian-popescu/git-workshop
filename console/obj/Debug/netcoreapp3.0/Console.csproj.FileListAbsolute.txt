@@ -1,0 +1,11 @@
+d:\Projects\Playground\workshop\console\bin\Debug\netcoreapp3.0\Console.exe
+d:\Projects\Playground\workshop\console\bin\Debug\netcoreapp3.0\Console.deps.json
+d:\Projects\Playground\workshop\console\bin\Debug\netcoreapp3.0\Console.runtimeconfig.json
+d:\Projects\Playground\workshop\console\bin\Debug\netcoreapp3.0\Console.runtimeconfig.dev.json
+d:\Projects\Playground\workshop\console\bin\Debug\netcoreapp3.0\Console.dll
+d:\Projects\Playground\workshop\console\bin\Debug\netcoreapp3.0\Console.pdb
+d:\Projects\Playground\workshop\console\obj\Debug\netcoreapp3.0\Console.csprojAssemblyReference.cache
+d:\Projects\Playground\workshop\console\obj\Debug\netcoreapp3.0\Console.AssemblyInfoInputs.cache
+d:\Projects\Playground\workshop\console\obj\Debug\netcoreapp3.0\Console.AssemblyInfo.cs
+d:\Projects\Playground\workshop\console\obj\Debug\netcoreapp3.0\Console.dll
+d:\Projects\Playground\workshop\console\obj\Debug\netcoreapp3.0\Console.pdb
